@@ -7,3 +7,7 @@ Prerequisites:
 1. A C++ compiler: Before you can start debugging your C++ code, you need to have a compiler installed on your computer. There are many options available for C++ compilers, such as GCC, Clang, and Visual C++. You should choose a compiler that is compatible with the debugger you plan to use.
 2. You will need a program that allows you to write and edit C++ code. In our case it is a full-featured IDE like Visual Studio Code. You should know how to do basic things in VS Code (open folder, create new file).
 3. A basic understanding of C++ programming: In order to effectively debug your C++ code, you should have a basic understanding of C++ programming concepts and syntax.
+
+Definitions:
+1. C++: a general-purpose programming language that supports object-oriented programming and is commonly used for developing system software, applications, and video games.
+2. Compiler: a computer program that translates source code written in a high-level programming language into machine code that can be executed by a computer.
