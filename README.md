@@ -11,3 +11,5 @@ Prerequisites:
 Definitions:
 1. C++: a general-purpose programming language that supports object-oriented programming and is commonly used for developing system software, applications, and video games.
 2. Compiler: a computer program that translates source code written in a high-level programming language into machine code that can be executed by a computer.
+### Step by step guide:
+1. Install the C++ extension: Open Visual Studio Code and click on the "Extensions" icon on the left-hand side of the window. In the search bar, type "C++" and select the "C++" extension from the list. Click the "Install" button to install the extension.
